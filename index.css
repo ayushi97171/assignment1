@@ -10,7 +10,7 @@ html {
 /*section1 */
 .bg-img {
   /* The image used */
-  background-image: url('bg.jpg');
+  background-image: url('images/bg.jpg');
   background-color: #000;
   /* Center and scale the image nicely */
   background-position: center;
